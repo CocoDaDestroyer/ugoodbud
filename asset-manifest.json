@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.b9d5a7dc.js",
-    "index.html": "/index.html",
-    "main.b9d5a7dc.js.map": "/static/js/main.b9d5a7dc.js.map"
+    "main.css": "/ugoodbud/static/css/main.31d6cfe0.css",
+    "main.js": "/ugoodbud/static/js/main.55383876.js",
+    "index.html": "/ugoodbud/index.html",
+    "main.55383876.js.map": "/ugoodbud/static/js/main.55383876.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.b9d5a7dc.js"
+    "static/js/main.55383876.js"
   ]
 }
